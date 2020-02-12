@@ -2,9 +2,9 @@ import { Component, OnInit, OnDestroy, Input } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { MatTableDataSource, MatSort, MatDialog } from '@angular/material';
 import { FormsModule } from '@angular/forms';
-import { TabService } from './../tab.service';
+// import { TabService } from '../../../../tab.service';
 import {AngularFirestore,AngularFirestoreCollection} from 'angularfire2/firestore'
-import { FirestoreConnectionService } from '../services/firestore-connection.service';
+import { FirestoreConnectionService } from '../../../../services/firestore-connection.service';
 import { ViewChild } from '@angular/core';
 import {MatPaginator} from '@angular/material/paginator';
 import {Observable} from 'rxjs';
@@ -16,7 +16,7 @@ declare var require: any;
   selector: 'app-lmpddetailview',
   templateUrl: './lmpddetailview.component.html',
   styleUrls: ['./lmpddetailview.component.css'],
-  providers: [TabService]
+  providers: []
 })
 
 export class LmpddetailviewComponent implements OnInit {
@@ -42,7 +42,7 @@ export class LmpddetailviewComponent implements OnInit {
   @ViewChild(MatPaginator, {static: true}) paginator: MatPaginator;
   displayedColumns = ['term','start','end','details','evidence'];// columns for Domains table
   dataSource:MatTableDataSource<any>;
-  constructor(private db:FirestoreConnectionService,private afs:AngularFirestore, private route: ActivatedRoute, private _tabService: TabService) {
+  constructor(private db:FirestoreConnectionService,private afs:AngularFirestore, private route: ActivatedRoute) {
 
    }
   ngOnInit() {
