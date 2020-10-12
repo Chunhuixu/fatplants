@@ -1,0 +1,28 @@
+{
+    "nodes": [
+    {"id": "SDP1", "group": 1},
+    {"id": "PSD1", "group": 1},
+    {"id": "AAPT1", "group": 1},
+	{"id": "AAPT2", "group": 1},
+	{"id": "PECT1", "group": 1},
+	{"id": "XPL1", "group": 1},
+	{"id": "AT4G09760", "group": 1},
+	{"id": "CCT1", "group": 1},
+	{"id": "CCT2", "group": 1},
+	{"id": "emb1187", "group": 1}
+	],
+	
+    "links": [
+    {"source": "SDP1", "target": "PSD1", "value": 1},
+    {"source": "PSD1", "target": "AAPT1", "value": 1},
+    {"source": "PSD1", "target": "AAPT2", "value": 1},
+    {"source": "AAPT1", "target": "PECT1", "value": 1},
+    {"source": "AAPT2", "target": "PECT1", "value": 1},
+	{"source": "PECT1", "target": "XPL1", "value": 1},
+	{"source": "PECT1", "target": "emb1187", "value": 1},
+    {"source": "PECT1", "target": "AT4G09760", "value": 1},
+    {"source": "XPL1", "target": "AT4G09760", "value": 1},
+	{"source": "AT4G09760", "target": "CCT1", "value": 1},
+	{"source": "AT4G09760", "target": "CCT2", "value": 1}
+    ]
+}
