@@ -1,28 +1,4143 @@
 {
     "nodes": [
-    {"id": "SDP1", "group": 1},
-    {"id": "PSD1", "group": 1},
-    {"id": "AAPT1", "group": 1},
-	{"id": "AAPT2", "group": 1},
-	{"id": "PECT1", "group": 1},
-	{"id": "XPL1", "group": 1},
-	{"id": "AT4G09760", "group": 1},
-	{"id": "CCT1", "group": 1},
-	{"id": "CCT2", "group": 1},
-	{"id": "emb1187", "group": 1}
+  {
+    "id": "YDL194W",
+    "group": 0,
+    "value1": 26,
+    "value2": 0.139
+  },
+  {
+    "id": "YDR277C",
+    "group": 0,
+    "value1": 25,
+    "value2": 0.243
+  },
+  {
+    "id": "YBR043C",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.454
+  },
+  {
+    "id": "YPR145W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.195
+  },
+  {
+    "id": "YER054C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.057
+  },
+  {
+    "id": "YBR045C",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.786
+  },
+  {
+    "id": "YBL079W",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.186
+  },
+  {
+    "id": "YLR345W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.108
+  },
+  {
+    "id": "YIL052C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.258
+  },
+  {
+    "id": "YER056CA",
+    "group": 0,
+    "value1": 19,
+    "value2": ""
+  },
+  {
+    "id": "YNL069C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.346
+  },
+  {
+    "id": "YDL075W",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.218
+  },
+  {
+    "id": "YFR014C",
+    "group": 0,
+    "value1": 3,
+    "value2": 0.229
+  },
+  {
+    "id": "YGR136W",
+    "group": 0,
+    "value1": 21,
+    "value2": -0.167
+  },
+  {
+    "id": "YDL023C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.712
+  },
+  {
+    "id": "YBR170C",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.128
+  },
+  {
+    "id": "YGR074W",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.074
+  },
+  {
+    "id": "YGL202W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.305
+  },
+  {
+    "id": "YLR197W",
+    "group": 1,
+    "value1": 1,
+    "value2": 0.02
+  },
+  {
+    "id": "YDL088C",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.069
+  },
+  {
+    "id": "YOR215C",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.151
+  },
+  {
+    "id": "YPR010C",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.129
+  },
+  {
+    "id": "YMR117C",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.093
+  },
+  {
+    "id": "YML114C",
+    "group": 0,
+    "value1": 24,
+    "value2": 0.226
+  },
+  {
+    "id": "YNL036W",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.998
+  },
+  {
+    "id": "YOR212W",
+    "group": 0,
+    "value1": 14,
+    "value2": -0.189
+  },
+  {
+    "id": "YDR070C",
+    "group": 0,
+    "value1": 20,
+    "value2": -0.915
+  },
+  {
+    "id": "YNL164C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.272
+  },
+  {
+    "id": "YGR046W",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.158
+  },
+  {
+    "id": "YLR153C",
+    "group": 0,
+    "value1": 21,
+    "value2": -0.042
+  },
+  {
+    "id": "YIL070C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.033
+  },
+  {
+    "id": "YPR113W",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.495
+  },
+  {
+    "id": "YER081W",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.568
+  },
+  {
+    "id": "YGR088W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.91
+  },
+  {
+    "id": "YDR395W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.119
+  },
+  {
+    "id": "YGR085C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.188
+  },
+  {
+    "id": "YER124C",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.179
+  },
+  {
+    "id": "YMR005W",
+    "group": 0,
+    "value1": 23,
+    "value2": 0.218
+  },
+  {
+    "id": "YDL030W",
+    "group": 0,
+    "value1": 22,
+    "value2": 0.244
+  },
+  {
+    "id": "YER079W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.174
+  },
+  {
+    "id": "YDL215C",
+    "group": 0,
+    "value1": 21,
+    "value2": 0.485
+  },
+  {
+    "id": "YIL045W",
+    "group": 0,
+    "value1": 21,
+    "value2": -0.078
+  },
+  {
+    "id": "YPR041W",
+    "group": 1,
+    "value1": 19,
+    "value2": -0.059
+  },
+  {
+    "id": "YOR120W",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.194
+  },
+  {
+    "id": "YIL074C",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.444
+  },
+  {
+    "id": "YDR299W",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.518
+  },
+  {
+    "id": "YHR005C",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.02
+  },
+  {
+    "id": "YLR452C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.507
+  },
+  {
+    "id": "YMR255W",
+    "group": 0,
+    "value1": 24,
+    "value2": 0.211
+  },
+  {
+    "id": "YBR274W",
+    "group": 0,
+    "value1": 23,
+    "value2": -0.045
+  },
+  {
+    "id": "YHR084W",
+    "group": 0.5,
+    "value1": 16,
+    "value2": -0.109
+  },
+  {
+    "id": "YBL050W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.066
+  },
+  {
+    "id": "YBL026W",
+    "group": 0,
+    "value1": 26,
+    "value2": -0.032
+  },
+  {
+    "id": "YJL194W",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.018
+  },
+  {
+    "id": "YLR258W",
+    "group": 0,
+    "value1": 22,
+    "value2": -0.405
+  },
+  {
+    "id": "YGL134W",
+    "group": 0,
+    "value1": 23,
+    "value2": 0.138
+  },
+  {
+    "id": "YHR055C",
+    "group": 0,
+    "value1": 21,
+    "value2": -0.867
+  },
+  {
+    "id": "YHR053C",
+    "group": 0,
+    "value1": 21,
+    "value2": -0.656
+  },
+  {
+    "id": "YPR124W",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.76
+  },
+  {
+    "id": "YNL135C",
+    "group": 0,
+    "value1": 22,
+    "value2": -0.071
+  },
+  {
+    "id": "YER052C",
+    "group": 0,
+    "value1": 23,
+    "value2": -0.47
+  },
+  {
+    "id": "YLR284C",
+    "group": 0,
+    "value1": 23,
+    "value2": 0.195
+  },
+  {
+    "id": "YHR198C",
+    "group": 0,
+    "value1": 23,
+    "value2": -0.053
+  },
+  {
+    "id": "YPL240C",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.222
+  },
+  {
+    "id": "YPR102C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.177
+  },
+  {
+    "id": "YLR075W",
+    "group": 0,
+    "value1": 20,
+    "value2": -0.169
+  },
+  {
+    "id": "YKL161C",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.198
+  },
+  {
+    "id": "YAR007C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.2
+  },
+  {
+    "id": "YIL160C",
+    "group": 0,
+    "value1": 3,
+    "value2": 1.044
+  },
+  {
+    "id": "YDL078C",
+    "group": 0,
+    "value1": 3,
+    "value2": 0.217
+  },
+  {
+    "id": "YDR142C",
+    "group": 0.33333333,
+    "value1": 2,
+    "value2": -0.101
+  },
+  {
+    "id": "YDR244W",
+    "group": 0.3,
+    "value1": 2,
+    "value2": 0.369
+  },
+  {
+    "id": "YLR432W",
+    "group": 0,
+    "value1": 22,
+    "value2": -0.197
+  },
+  {
+    "id": "YDR167W",
+    "group": 0,
+    "value1": 23,
+    "value2": 0.246
+  },
+  {
+    "id": "YLR175W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.038
+  },
+  {
+    "id": "YNL117W",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.973
+  },
+  {
+    "id": "YOR089C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.193
+  },
+  {
+    "id": "YPR167C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.066
+  },
+  {
+    "id": "YNL214W",
+    "group": 1,
+    "value1": 3,
+    "value2": 0.122
+  },
+  {
+    "id": "YBR135W",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.108
+  },
+  {
+    "id": "YML007W",
+    "group": 0,
+    "value1": 3,
+    "value2": 0.359
+  },
+  {
+    "id": "YER110C",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.05
+  },
+  {
+    "id": "YGL153W",
+    "group": 0.5,
+    "value1": 2,
+    "value2": 0.242
+  },
+  {
+    "id": "YLR191W",
+    "group": 1,
+    "value1": 3,
+    "value2": 0.178
+  },
+  {
+    "id": "YOL149W",
+    "group": 0,
+    "value1": 26,
+    "value2": 0.228
+  },
+  {
+    "id": "YMR044W",
+    "group": 0,
+    "value1": 21,
+    "value2": 0.255
+  },
+  {
+    "id": "YOR362C",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.036
+  },
+  {
+    "id": "YER102W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.249
+  },
+  {
+    "id": "YOL059W",
+    "group": 0,
+    "value1": 20,
+    "value2": -0.499
+  },
+  {
+    "id": "YBR190W",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.209
+  },
+  {
+    "id": "YER103W",
+    "group": 0,
+    "value1": 21,
+    "value2": -0.405
+  },
+  {
+    "id": "YPR110C",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.12
+  },
+  {
+    "id": "YNL113W",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.304
+  },
+  {
+    "id": "YDR354W",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.122
+  },
+  {
+    "id": "YER090W",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.067
+  },
+  {
+    "id": "YKL211C",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.183
+  },
+  {
+    "id": "YDR146C",
+    "group": 0,
+    "value1": 14,
+    "value2": -0.19
+  },
+  {
+    "id": "YER111C",
+    "group": 0,
+    "value1": 15,
+    "value2": 0.195
+  },
+  {
+    "id": "YOR039W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.006
+  },
+  {
+    "id": "YML024W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.551
+  },
+  {
+    "id": "YIL113W",
+    "group": 0,
+    "value1": 15,
+    "value2": -0.236
+  },
+  {
+    "id": "YLL019C",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.258
+  },
+  {
+    "id": "YDR009W",
+    "group": 0,
+    "value1": 15,
+    "value2": -0.111
+  },
+  {
+    "id": "YML051W",
+    "group": 0.33333333,
+    "value1": 16,
+    "value2": -0.07
+  },
+  {
+    "id": "YHR071W",
+    "group": 0,
+    "value1": 25,
+    "value2": -0.614
+  },
+  {
+    "id": "YPL031C",
+    "group": 0,
+    "value1": 24,
+    "value2": -0.106
+  },
+  {
+    "id": "YML123C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.283
+  },
+  {
+    "id": "YER145C",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.647
+  },
+  {
+    "id": "YMR058W",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.449
+  },
+  {
+    "id": "YJL190C",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.444
+  },
+  {
+    "id": "YML074C",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.118
+  },
+  {
+    "id": "YOR355W",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.176
+  },
+  {
+    "id": "YFL038C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.075
+  },
+  {
+    "id": "YIL162W",
+    "group": 0,
+    "value1": 15,
+    "value2": -0.318
+  },
+  {
+    "id": "YBR050C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.432
+  },
+  {
+    "id": "YMR311C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.214
+  },
+  {
+    "id": "YOR315W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.066
+  },
+  {
+    "id": "YOR178C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.137
+  },
+  {
+    "id": "YER133W",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.051
+  },
+  {
+    "id": "YOR290C",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.119
+  },
+  {
+    "id": "YFR037C",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.297
+  },
+  {
+    "id": "YFR034C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.121
+  },
+  {
+    "id": "YAL040C",
+    "group": 1,
+    "value1": 15,
+    "value2": -0.027
+  },
+  {
+    "id": "YPL222W",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.344
+  },
+  {
+    "id": "YGR048W",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.017
+  },
+  {
+    "id": "YMR291W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.363
+  },
+  {
+    "id": "YGR009C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.236
+  },
+  {
+    "id": "YMR183C",
+    "group": 0,
+    "value1": 20,
+    "value2": -0.822
+  },
+  {
+    "id": "YDR100W",
+    "group": 1,
+    "value1": 18,
+    "value2": -0.007
+  },
+  {
+    "id": "YGL161C",
+    "group": 1,
+    "value1": 18,
+    "value2": -0.07
+  },
+  {
+    "id": "YPL131W",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.228
+  },
+  {
+    "id": "YDL063C",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.093
+  },
+  {
+    "id": "YNL167C",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.095
+  },
+  {
+    "id": "YHR115C",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.056
+  },
+  {
+    "id": "YEL041W",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.211
+  },
+  {
+    "id": "YDL113C",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.189
+  },
+  {
+    "id": "YJL036W",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.195
+  },
+  {
+    "id": "YBR109C",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.089
+  },
+  {
+    "id": "YOL016C",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.365
+  },
+  {
+    "id": "YKL001C",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.152
+  },
+  {
+    "id": "YNL311C",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.055
+  },
+  {
+    "id": "YLR319C",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.071
+  },
+  {
+    "id": "YPR062W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.07
+  },
+  {
+    "id": "YPL111W",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.186
+  },
+  {
+    "id": "YDL236W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.223
+  },
+  {
+    "id": "YNL189W",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.082
+  },
+  {
+    "id": "YBL069W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.272
+  },
+  {
+    "id": "YGL073W",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.104
+  },
+  {
+    "id": "YBR072W",
+    "group": 0,
+    "value1": 21,
+    "value2": -1.232
+  },
+  {
+    "id": "YLR321C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.252
+  },
+  {
+    "id": "YPR048W",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.113
+  },
+  {
+    "id": "YNL199C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.121
+  },
+  {
+    "id": "YPL075W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.373
+  },
+  {
+    "id": "YHR179W",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.565
+  },
+  {
+    "id": "YCL040W",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.146
+  },
+  {
+    "id": "YFL039C",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.16
+  },
+  {
+    "id": "YDL130W",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.3
+  },
+  {
+    "id": "YDR382W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.218
+  },
+  {
+    "id": "YJR066W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.028
+  },
+  {
+    "id": "YKL204W",
+    "group": 0,
+    "value1": 4,
+    "value2": 0.253
+  },
+  {
+    "id": "YNL154C",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.013
+  },
+  {
+    "id": "YNL047C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.14
+  },
+  {
+    "id": "YNL116W",
+    "group": 0,
+    "value1": 4,
+    "value2": 0.165
+  },
+  {
+    "id": "YHR135C",
+    "group": 0,
+    "value1": 3,
+    "value2": 0.082
+  },
+  {
+    "id": "YML064C",
+    "group": 0,
+    "value1": 22,
+    "value2": -0.218
+  },
+  {
+    "id": "YKL074C",
+    "group": 0,
+    "value1": 15,
+    "value2": 0.002
+  },
+  {
+    "id": "YLR340W",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.259
+  },
+  {
+    "id": "YDL081C",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.429
+  },
+  {
+    "id": "YGL166W",
+    "group": 0,
+    "value1": 22,
+    "value2": -0.073
+  },
+  {
+    "id": "YLL028W",
+    "group": 0,
+    "value1": 23,
+    "value2": -0.189
+  },
+  {
+    "id": "YDR174W",
+    "group": 0,
+    "value1": 21,
+    "value2": -0.314
+  },
+  {
+    "id": "YDR335W",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.028
+  },
+  {
+    "id": "YLR214W",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.518
+  },
+  {
+    "id": "YMR021C",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.022
+  },
+  {
+    "id": "YLR377C",
+    "group": 0,
+    "value1": 15,
+    "value2": 0.873
+  },
+  {
+    "id": "YER065C",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.65
+  },
+  {
+    "id": "YJL089W",
+    "group": 0,
+    "value1": 15,
+    "value2": 0.037
+  },
+  {
+    "id": "YHR030C",
+    "group": 0,
+    "value1": 14,
+    "value2": -0.227
+  },
+  {
+    "id": "YPL089C",
+    "group": 0,
+    "value1": 15,
+    "value2": -0.06
+  },
+  {
+    "id": "YGL208W",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.354
+  },
+  {
+    "id": "YGL115W",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.111
+  },
+  {
+    "id": "YLR310C",
+    "group": 0,
+    "value1": 22,
+    "value2": 0.015
+  },
+  {
+    "id": "YNL098C",
+    "group": 0,
+    "value1": 23,
+    "value2": 0.05
+  },
+  {
+    "id": "YGR019W",
+    "group": 0,
+    "value1": 23,
+    "value2": -0.163
+  },
+  {
+    "id": "YPR035W",
+    "group": 0,
+    "value1": 23,
+    "value2": -0.197
+  },
+  {
+    "id": "YER040W",
+    "group": 0,
+    "value1": 22,
+    "value2": 0.098
+  },
+  {
+    "id": "YGL008C",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.352
+  },
+  {
+    "id": "YOR036W",
+    "group": 0.06666667,
+    "value1": 17,
+    "value2": 0.071
+  },
+  {
+    "id": "YDR323C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.164
+  },
+  {
+    "id": "YBL005W",
+    "group": 0,
+    "value1": 20,
+    "value2": 0
+  },
+  {
+    "id": "YBR160W",
+    "group": 0.33333333,
+    "value1": 16,
+    "value2": -0.016
+  },
+  {
+    "id": "YKL101W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.01
+  },
+  {
+    "id": "YOL156W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.298
+  },
+  {
+    "id": "YJL219W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.298
+  },
+  {
+    "id": "YLL021W",
+    "group": 0,
+    "value1": 15,
+    "value2": -0.155
+  },
+  {
+    "id": "YOL136C",
+    "group": 0,
+    "value1": 25,
+    "value2": -0.646
+  },
+  {
+    "id": "YJL203W",
+    "group": 0,
+    "value1": 24,
+    "value2": 0.083
+  },
+  {
+    "id": "YNR007C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.078
+  },
+  {
+    "id": "YFL026W",
+    "group": 0.66666667,
+    "value1": 16,
+    "value2": -0.653
+  },
+  {
+    "id": "YJL157C",
+    "group": 0.16666667,
+    "value1": 14,
+    "value2": -0.158
+  },
+  {
+    "id": "YNL145W",
+    "group": 0.66666667,
+    "value1": 16,
+    "value2": -0.764
+  },
+  {
+    "id": "YDR461W",
+    "group": 0.66666667,
+    "value1": 16,
+    "value2": -0.659
+  },
+  {
+    "id": "YGR108W",
+    "group": 0.33333333,
+    "value1": 16,
+    "value2": -0.25
+  },
+  {
+    "id": "YKR097W",
+    "group": 0,
+    "value1": 16,
+    "value2": 1.289
+  },
+  {
+    "id": "YJL159W",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.357
+  },
+  {
+    "id": "YIL015W",
+    "group": 1,
+    "value1": 16,
+    "value2": -0.622
+  },
+  {
+    "id": "YMR043W",
+    "group": 0.05882353,
+    "value1": 15,
+    "value2": -0.183
+  },
+  {
+    "id": "YKL109W",
+    "group": 0.33333333,
+    "value1": 15,
+    "value2": 0.084
+  },
+  {
+    "id": "YBR217W",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.088
+  },
+  {
+    "id": "YHR171W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.134
+  },
+  {
+    "id": "YPL149W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.033
+  },
+  {
+    "id": "YKL028W",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.214
+  },
+  {
+    "id": "YDR311W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.098
+  },
+  {
+    "id": "YBL021C",
+    "group": 1,
+    "value1": 16,
+    "value2": 0.073
+  },
+  {
+    "id": "YGL237C",
+    "group": 1,
+    "value1": 16,
+    "value2": 0.127
+  },
+  {
+    "id": "YEL039C",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.319
+  },
+  {
+    "id": "YJR048W",
+    "group": 0.2,
+    "value1": 16,
+    "value2": 0.216
+  },
+  {
+    "id": "YML054C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.963
+  },
+  {
+    "id": "YLR256W",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.011
+  },
+  {
+    "id": "YOR303W",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.127
+  },
+  {
+    "id": "YJR109C",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.323
+  },
+  {
+    "id": "YGR058W",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.045
+  },
+  {
+    "id": "YLR229C",
+    "group": 0,
+    "value1": 15,
+    "value2": -0.074
+  },
+  {
+    "id": "YDR309C",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.427
+  },
+  {
+    "id": "YOR264W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.493
+  },
+  {
+    "id": "YLR116W",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.015
+  },
+  {
+    "id": "YNL312W",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.028
+  },
+  {
+    "id": "YML032C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.199
+  },
+  {
+    "id": "YKL012W",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.21
+  },
+  {
+    "id": "YNL236W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.146
+  },
+  {
+    "id": "YNL091W",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.288
+  },
+  {
+    "id": "YDR184C",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.04
+  },
+  {
+    "id": "YIL143C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.124
+  },
+  {
+    "id": "YKR099W",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.466
+  },
+  {
+    "id": "YIR009W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.044
+  },
+  {
+    "id": "YBR018C",
+    "group": 1,
+    "value1": 16,
+    "value2": 0.153
+  },
+  {
+    "id": "YPL248C",
+    "group": 0.17777778,
+    "value1": 15,
+    "value2": 0.1
+  },
+  {
+    "id": "YLR081W",
+    "group": 1,
+    "value1": 16,
+    "value2": 0.176
+  },
+  {
+    "id": "YBR020W",
+    "group": 0.5,
+    "value1": 15,
+    "value2": -2.426
+  },
+  {
+    "id": "YGL035C",
+    "group": 0.05454545,
+    "value1": 14,
+    "value2": 0.345
+  },
+  {
+    "id": "YOL051W",
+    "group": 0.4,
+    "value1": 16,
+    "value2": 0.171
+  },
+  {
+    "id": "YBR019C",
+    "group": 0.66666667,
+    "value1": 15,
+    "value2": 0.061
+  },
+  {
+    "id": "YJR060W",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.165
+  },
+  {
+    "id": "YDR103W",
+    "group": 1,
+    "value1": 16,
+    "value2": -0.068
+  },
+  {
+    "id": "YLR362W",
+    "group": 0.02777778,
+    "value1": 15,
+    "value2": 0.144
+  },
+  {
+    "id": "YDR032C",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.113
+  },
+  {
+    "id": "YCL032W",
+    "group": 0.16666667,
+    "value1": 16,
+    "value2": 0.126
+  },
+  {
+    "id": "YLR109W",
+    "group": 0,
+    "value1": 27,
+    "value2": -0.603
+  },
+  {
+    "id": "YHR141C",
+    "group": 0,
+    "value1": 27,
+    "value2": -0.359
+  },
+  {
+    "id": "YMR138W",
+    "group": 0,
+    "value1": 26,
+    "value2": 0.414
+  },
+  {
+    "id": "YMR300C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.514
+  },
+  {
+    "id": "YOL058W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.652
+  },
+  {
+    "id": "YBR248C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.258
+  },
+  {
+    "id": "YOR202W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.432
+  },
+  {
+    "id": "YMR108W",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.04
+  },
+  {
+    "id": "YEL009C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.035
+  },
+  {
+    "id": "YBR155W",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.082
+  },
+  {
+    "id": "YMR186W",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.032
+  },
+  {
+    "id": "YGL106W",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.262
+  },
+  {
+    "id": "YOR326W",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.51
+  },
+  {
+    "id": "YMR309C",
+    "group": 0.33333333,
+    "value1": 19,
+    "value2": 0.009
+  },
+  {
+    "id": "YOR361C",
+    "group": 0.33333333,
+    "value1": 18,
+    "value2": -0.02
+  },
+  {
+    "id": "YIL105C",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.196
+  },
+  {
+    "id": "YLR134W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.645
+  },
+  {
+    "id": "YER179W",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.219
+  },
+  {
+    "id": "YOR310C",
+    "group": 1,
+    "value1": 1,
+    "value2": -0.073
+  },
+  {
+    "id": "YDL014W",
+    "group": 1,
+    "value1": 1,
+    "value2": -0.039
+  },
+  {
+    "id": "YPR119W",
+    "group": 0,
+    "value1": 16,
+    "value2": -0.234
+  },
+  {
+    "id": "YLR117C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.326
+  },
+  {
+    "id": "YGL013C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.185
+  },
+  {
+    "id": "YCR086W",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.081
+  },
+  {
+    "id": "YDR412W",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.067
+  },
+  {
+    "id": "YPL201C",
+    "group": 0,
+    "value1": 1,
+    "value2": 2.058
+  },
+  {
+    "id": "YER062C",
+    "group": 0,
+    "value1": 1,
+    "value2": -0.486
+  },
+  {
+    "id": "YOR327C",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.249
+  },
+  {
+    "id": "YER143W",
+    "group": 0,
+    "value1": 21,
+    "value2": 0.282
+  },
+  {
+    "id": "YAL030W",
+    "group": 0,
+    "value1": 20,
+    "value2": -0.05
+  },
+  {
+    "id": "YOL086C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.113
+  },
+  {
+    "id": "YDR050C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.584
+  },
+  {
+    "id": "YOL127W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.192
+  },
+  {
+    "id": "YIL069C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.313
+  },
+  {
+    "id": "YER074W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.262
+  },
+  {
+    "id": "YBR093C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.704
+  },
+  {
+    "id": "YDR171W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.31
+  },
+  {
+    "id": "YCL030C",
+    "group": 0,
+    "value1": 17,
+    "value2": -1.067
+  },
+  {
+    "id": "YNL301C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.379
+  },
+  {
+    "id": "YOL120C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.409
+  },
+  {
+    "id": "YLR044C",
+    "group": 0,
+    "value1": 15,
+    "value2": -0.62
+  },
+  {
+    "id": "YIL133C",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.453
+  },
+  {
+    "id": "YHR174W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.816
+  },
+  {
+    "id": "YGR254W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.737
+  },
+  {
+    "id": "YCR012W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.668
+  },
+  {
+    "id": "YNL216W",
+    "group": 0,
+    "value1": 16,
+    "value2": 0.205
+  },
+  {
+    "id": "YAL038W",
+    "group": 0,
+    "value1": 17,
+    "value2": -0.652
+  },
+  {
+    "id": "YNL307C",
+    "group": 0,
+    "value1": 18,
+    "value2": -0.046
+  },
+  {
+    "id": "YDL013W",
+    "group": 0,
+    "value1": 21,
+    "value2": 0.214
+  },
+  {
+    "id": "YER116C",
+    "group": 0,
+    "value1": 22,
+    "value2": 0.029
+  },
+  {
+    "id": "YNR053C",
+    "group": 0,
+    "value1": 23,
+    "value2": 0.352
+  },
+  {
+    "id": "YLR264W",
+    "group": 0,
+    "value1": 25,
+    "value2": -0.259
+  },
+  {
+    "id": "YEL015W",
+    "group": 0,
+    "value1": 23,
+    "value2": 0.222
+  },
+  {
+    "id": "YNL050C",
+    "group": 0,
+    "value1": 25,
+    "value2": 0.301
+  },
+  {
+    "id": "YNR050C",
+    "group": 0,
+    "value1": 25,
+    "value2": 0.223
+  },
+  {
+    "id": "YJR022W",
+    "group": 0,
+    "value1": 24,
+    "value2": 0.059
+  },
+  {
+    "id": "YOR167C",
+    "group": 0,
+    "value1": 25,
+    "value2": -0.374
+  },
+  {
+    "id": "YER112W",
+    "group": 0,
+    "value1": 26,
+    "value2": 0.193
+  },
+  {
+    "id": "YCL067C",
+    "group": 0.26666667,
+    "value1": 16,
+    "value2": 0.169
+  },
+  {
+    "id": "YBR112C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.108
+  },
+  {
+    "id": "YCR084C",
+    "group": 0,
+    "value1": 17,
+    "value2": 0.044
+  },
+  {
+    "id": "YIL061C",
+    "group": 0,
+    "value1": 20,
+    "value2": 0.165
+  },
+  {
+    "id": "YGR203W",
+    "group": 0,
+    "value1": 21,
+    "value2": -0.141
+  },
+  {
+    "id": "YJL013C",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.072
+  },
+  {
+    "id": "YGL229C",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.521
+  },
+  {
+    "id": "YJL030W",
+    "group": 0,
+    "value1": 2,
+    "value2": 0.08
+  },
+  {
+    "id": "YGR014W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.066
+  },
+  {
+    "id": "YPL211W",
+    "group": 0,
+    "value1": 3,
+    "value2": -0.231
+  },
+  {
+    "id": "YGL044C",
+    "group": 0,
+    "value1": 27,
+    "value2": 0.162
+  },
+  {
+    "id": "YOL123W",
+    "group": 0,
+    "value1": 26,
+    "value2": 0.245
+  },
+  {
+    "id": "YAL003W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.157
+  },
+  {
+    "id": "YFL017C",
+    "group": 0,
+    "value1": 19,
+    "value2": 0.131
+  },
+  {
+    "id": "YDR429C",
+    "group": 0,
+    "value1": 18,
+    "value2": 0.078
+  },
+  {
+    "id": "YMR146C",
+    "group": 0,
+    "value1": 19,
+    "value2": -0.05
+  },
+  {
+    "id": "YLR293C",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.242
+  },
+  {
+    "id": "YBR118W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.074
+  },
+  {
+    "id": "YPR080W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.138
+  },
+  {
+    "id": "YLR249W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.39
+  },
+  {
+    "id": "YOR204W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.033
+  },
+  {
+    "id": "YGL097W",
+    "group": 0,
+    "value1": 1,
+    "value2": 0.16
+  },
+  {
+    "id": "YGR218W",
+    "group": 0,
+    "value1": 2,
+    "value2": -0.018
+  },
+  {
+    "id": "YGL122C",
+    "group": 0,
+    "value1": 25,
+    "value2": 0.174
+  },
+  {
+    "id": "YKR026C",
+    "group": 0,
+    "value1": 26,
+    "value2": -0.154
+  }
+
 	],
 	
     "links": [
-    {"source": "SDP1", "target": "PSD1", "value": 1},
-    {"source": "PSD1", "target": "AAPT1", "value": 1},
-    {"source": "PSD1", "target": "AAPT2", "value": 1},
-    {"source": "AAPT1", "target": "PECT1", "value": 1},
-    {"source": "AAPT2", "target": "PECT1", "value": 1},
-	{"source": "PECT1", "target": "XPL1", "value": 1},
-	{"source": "PECT1", "target": "emb1187", "value": 1},
-    {"source": "PECT1", "target": "AT4G09760", "value": 1},
-    {"source": "XPL1", "target": "AT4G09760", "value": 1},
-	{"source": "AT4G09760", "target": "CCT1", "value": 1},
-	{"source": "AT4G09760", "target": "CCT2", "value": 1}
-    ]
+  {
+    "source": "YDR277C",
+    "target": "YDL194W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR277C",
+    "target": "YJR022W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPR145W",
+    "target": "YMR117C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER054C",
+    "target": "YBR045C",
+    "EdgeBetweenness": 2746,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER054C",
+    "target": "YER133W",
+    "EdgeBetweenness": 3174,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR045C",
+    "target": "YOR178C",
+    "EdgeBetweenness": 2962,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR045C",
+    "target": "YIL045W",
+    "EdgeBetweenness": 5236,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBL079W",
+    "target": "YDL088C",
+    "EdgeBetweenness": 6,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR345W",
+    "target": "YLR321C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR136W",
+    "target": "YGR058W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL023C",
+    "target": "YJL159W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR170C",
+    "target": "YGR048W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR074W",
+    "target": "YBR043C",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL202W",
+    "target": "YGR074W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR197W",
+    "target": "YOR310C",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR197W",
+    "target": "YDL014W",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL088C",
+    "target": "YER110C",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR117C",
+    "target": "YPR010C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR117C",
+    "target": "YCL032W",
+    "EdgeBetweenness": 1476,
+    "interaction": "pp"
+  },
+  {
+    "source": "YML114C",
+    "target": "YDR167W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL036W",
+    "target": "YIR009W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOR212W",
+    "target": "YLR362W",
+    "EdgeBetweenness": 8540.004129,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR070C",
+    "target": "YFL017C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR046W",
+    "target": "YNL236W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIL070C",
+    "target": "YML054C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPR113W",
+    "target": "YMR043W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YER081W",
+    "target": "YIL074C",
+    "EdgeBetweenness": 6,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR088W",
+    "target": "YLR256W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YDR395W",
+    "target": "YPR102C",
+    "EdgeBetweenness": 739,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR395W",
+    "target": "YOL127W",
+    "EdgeBetweenness": 1929,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR395W",
+    "target": "YIL052C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR395W",
+    "target": "YER056CA",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR395W",
+    "target": "YNL069C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR395W",
+    "target": "YIL133C",
+    "EdgeBetweenness": 1929,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR395W",
+    "target": "YDL075W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR085C",
+    "target": "YDR395W",
+    "EdgeBetweenness": 739,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR085C",
+    "target": "YLR075W",
+    "EdgeBetweenness": 249,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL030W",
+    "target": "YMR005W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL030W",
+    "target": "YDL013W",
+    "EdgeBetweenness": 7802.717083,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER079W",
+    "target": "YNL154C",
+    "EdgeBetweenness": 12,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER079W",
+    "target": "YHR135C",
+    "EdgeBetweenness": 12,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL215C",
+    "target": "YLR432W",
+    "EdgeBetweenness": 1476,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL215C",
+    "target": "YER040W",
+    "EdgeBetweenness": 1476,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPR041W",
+    "target": "YMR309C",
+    "EdgeBetweenness": 265.3333333,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPR041W",
+    "target": "YOR361C",
+    "EdgeBetweenness": 230.6666667,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOR120W",
+    "target": "YPL248C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YIL074C",
+    "target": "YNL311C",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR299W",
+    "target": "YJL194W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YHR005C",
+    "target": "YLR362W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR452C",
+    "target": "YHR005C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR255W",
+    "target": "YGL122C",
+    "EdgeBetweenness": 1960,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR274W",
+    "target": "YMR255W",
+    "EdgeBetweenness": 2440,
+    "interaction": "pp"
+  },
+  {
+    "source": "YHR084W",
+    "target": "YFL026W",
+    "EdgeBetweenness": 4.83333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YHR084W",
+    "target": "YDR461W",
+    "EdgeBetweenness": 4.83333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YHR084W",
+    "target": "YMR043W",
+    "EdgeBetweenness": 485.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBL050W",
+    "target": "YOR036W",
+    "EdgeBetweenness": 6133.282917,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBL026W",
+    "target": "YOR167C",
+    "EdgeBetweenness": 248.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJL194W",
+    "target": "YMR043W",
+    "EdgeBetweenness": 988,
+    "interaction": "pd"
+  },
+  {
+    "source": "YLR258W",
+    "target": "YBR274W",
+    "EdgeBetweenness": 2916,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR258W",
+    "target": "YIL045W",
+    "EdgeBetweenness": 4780,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL134W",
+    "target": "YLR258W",
+    "EdgeBetweenness": 1476,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL134W",
+    "target": "YPL031C",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPR124W",
+    "target": "YMR021C",
+    "EdgeBetweenness": 4,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL135C",
+    "target": "YDR174W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER052C",
+    "target": "YNL135C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL240C",
+    "target": "YOR036W",
+    "EdgeBetweenness": 8233.282917,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL240C",
+    "target": "YBR155W",
+    "EdgeBetweenness": 323,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR075W",
+    "target": "YPR102C",
+    "EdgeBetweenness": 249,
+    "interaction": "pp"
+  },
+  {
+    "source": "YKL161C",
+    "target": "YPL089C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YAR007C",
+    "target": "YPL111W",
+    "EdgeBetweenness": 739,
+    "interaction": "pd"
+  },
+  {
+    "source": "YAR007C",
+    "target": "YML032C",
+    "EdgeBetweenness": 249,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR142C",
+    "target": "YIL160C",
+    "EdgeBetweenness": 12,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR142C",
+    "target": "YGL153W",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR244W",
+    "target": "YDL078C",
+    "EdgeBetweenness": 12,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR244W",
+    "target": "YDR142C",
+    "EdgeBetweenness": 12,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR244W",
+    "target": "YNL214W",
+    "EdgeBetweenness": 7,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR244W",
+    "target": "YGL153W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR244W",
+    "target": "YLR191W",
+    "EdgeBetweenness": 7,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR167W",
+    "target": "YLR432W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR175W",
+    "target": "YNL307C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL117W",
+    "target": "YJL089W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YOR089C",
+    "target": "YDR323C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL214W",
+    "target": "YGL153W",
+    "EdgeBetweenness": 5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR135W",
+    "target": "YER102W",
+    "EdgeBetweenness": 3206.084554,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER110C",
+    "target": "YML007W",
+    "EdgeBetweenness": 6,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR191W",
+    "target": "YGL153W",
+    "EdgeBetweenness": 5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOL149W",
+    "target": "YOR167C",
+    "EdgeBetweenness": 248.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR044W",
+    "target": "YIL061C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL113W",
+    "target": "YPR110C",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR354W",
+    "target": "YEL009C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YKL211C",
+    "target": "YER090W",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR146C",
+    "target": "YGL035C",
+    "EdgeBetweenness": 19180.2222,
+    "interaction": "pd"
+  },
+  {
+    "source": "YDR146C",
+    "target": "YMR043W",
+    "EdgeBetweenness": 19179.59363,
+    "interaction": "pd"
+  },
+  {
+    "source": "YER111C",
+    "target": "YMR043W",
+    "EdgeBetweenness": 2361.732601,
+    "interaction": "pd"
+  },
+  {
+    "source": "YOR039W",
+    "target": "YOR303W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YML024W",
+    "target": "YNL216W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YIL113W",
+    "target": "YHR030C",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLL019C",
+    "target": "YIL113W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR009W",
+    "target": "YGL035C",
+    "EdgeBetweenness": 615.7757576,
+    "interaction": "pd"
+  },
+  {
+    "source": "YML051W",
+    "target": "YDR009W",
+    "EdgeBetweenness": 143.3757576,
+    "interaction": "pp"
+  },
+  {
+    "source": "YML051W",
+    "target": "YBR020W",
+    "EdgeBetweenness": 135.9757576,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL031C",
+    "target": "YHR071W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YML123C",
+    "target": "YFR034C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR058W",
+    "target": "YER145C",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YML074C",
+    "target": "YJL190C",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOR355W",
+    "target": "YNL091W",
+    "EdgeBetweenness": 2356.124542,
+    "interaction": "pp"
+  },
+  {
+    "source": "YFL038C",
+    "target": "YOR036W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIL162W",
+    "target": "YNL167C",
+    "EdgeBetweenness": 887.7307692,
+    "interaction": "pd"
+  },
+  {
+    "source": "YER133W",
+    "target": "YBR050C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER133W",
+    "target": "YMR311C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER133W",
+    "target": "YOR315W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER133W",
+    "target": "YOR178C",
+    "EdgeBetweenness": 7242,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER133W",
+    "target": "YDR412W",
+    "EdgeBetweenness": 11988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YFR037C",
+    "target": "YOR290C",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YFR034C",
+    "target": "YBR093C",
+    "EdgeBetweenness": 988,
+    "interaction": "pd"
+  },
+  {
+    "source": "YAL040C",
+    "target": "YMR043W",
+    "EdgeBetweenness": 381,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGR048W",
+    "target": "YPL222W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR291W",
+    "target": "YGL115W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR009C",
+    "target": "YBL050W",
+    "EdgeBetweenness": 5785.282917,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR009C",
+    "target": "YDR335W",
+    "EdgeBetweenness": 4025.282917,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR009C",
+    "target": "YOR327C",
+    "EdgeBetweenness": 739,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR009C",
+    "target": "YAL030W",
+    "EdgeBetweenness": 739,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR183C",
+    "target": "YGR009C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL161C",
+    "target": "YDR100W",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL063C",
+    "target": "YPL131W",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL167C",
+    "target": "YOR202W",
+    "EdgeBetweenness": 611.2692308,
+    "interaction": "pd"
+  },
+  {
+    "source": "YHR115C",
+    "target": "YOR215C",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YEL041W",
+    "target": "YHR115C",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJL036W",
+    "target": "YDL113C",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR109C",
+    "target": "YFR014C",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR109C",
+    "target": "YOR326W",
+    "EdgeBetweenness": 12,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOL016C",
+    "target": "YBR109C",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL311C",
+    "target": "YKL001C",
+    "EdgeBetweenness": 6,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR319C",
+    "target": "YLR362W",
+    "EdgeBetweenness": 4592.87952,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL189W",
+    "target": "YPR062W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL189W",
+    "target": "YER065C",
+    "EdgeBetweenness": 2598.55641,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL189W",
+    "target": "YPL111W",
+    "EdgeBetweenness": 1960,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL189W",
+    "target": "YDL236W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBL069W",
+    "target": "YGL008C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL073W",
+    "target": "YER103W",
+    "EdgeBetweenness": 1476,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL073W",
+    "target": "YHR055C",
+    "EdgeBetweenness": 981,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL073W",
+    "target": "YHR053C",
+    "EdgeBetweenness": 981,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL073W",
+    "target": "YOR178C",
+    "EdgeBetweenness": 4320,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR072W",
+    "target": "YGL073W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YLR321C",
+    "target": "YDR412W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPR048W",
+    "target": "YDL215C",
+    "EdgeBetweenness": 3388,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPR048W",
+    "target": "YOR355W",
+    "EdgeBetweenness": 2162.029304,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL199C",
+    "target": "YPR048W",
+    "EdgeBetweenness": 3624.18315,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL075W",
+    "target": "YOL086C",
+    "EdgeBetweenness": 1846.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL075W",
+    "target": "YDR050C",
+    "EdgeBetweenness": 1846.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL075W",
+    "target": "YNL199C",
+    "EdgeBetweenness": 11094.3288,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL075W",
+    "target": "YHR174W",
+    "EdgeBetweenness": 1846.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL075W",
+    "target": "YGR254W",
+    "EdgeBetweenness": 1846.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL075W",
+    "target": "YCR012W",
+    "EdgeBetweenness": 2034.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YFL039C",
+    "target": "YHR179W",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YFL039C",
+    "target": "YCL040W",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR382W",
+    "target": "YFL039C",
+    "EdgeBetweenness": 12,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR382W",
+    "target": "YDL130W",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJR066W",
+    "target": "YLR116W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL154C",
+    "target": "YKL204W",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL047C",
+    "target": "YIL105C",
+    "EdgeBetweenness": 2031.915446,
+    "interaction": "pp"
+  },
+  {
+    "source": "YHR135C",
+    "target": "YNL116W",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YML064C",
+    "target": "YDR174W",
+    "EdgeBetweenness": 3145.711489,
+    "interaction": "pp"
+  },
+  {
+    "source": "YML064C",
+    "target": "YLR284C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YML064C",
+    "target": "YHR198C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YKL074C",
+    "target": "YGL035C",
+    "EdgeBetweenness": 2916,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL081C",
+    "target": "YLR340W",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL166W",
+    "target": "YHR055C",
+    "EdgeBetweenness": 495,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL166W",
+    "target": "YHR053C",
+    "EdgeBetweenness": 495,
+    "interaction": "pd"
+  },
+  {
+    "source": "YLL028W",
+    "target": "YGL166W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR335W",
+    "target": "YDR174W",
+    "EdgeBetweenness": 3733.282917,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR021C",
+    "target": "YLR214W",
+    "EdgeBetweenness": 4,
+    "interaction": "pd"
+  },
+  {
+    "source": "YJL089W",
+    "target": "YLR377C",
+    "EdgeBetweenness": 1271.901648,
+    "interaction": "pd"
+  },
+  {
+    "source": "YJL089W",
+    "target": "YKR097W",
+    "EdgeBetweenness": 2924.575275,
+    "interaction": "pd"
+  },
+  {
+    "source": "YJL089W",
+    "target": "YER065C",
+    "EdgeBetweenness": 2882.710256,
+    "interaction": "pd"
+  },
+  {
+    "source": "YHR030C",
+    "target": "YER111C",
+    "EdgeBetweenness": 2101.732601,
+    "interaction": "pp"
+  },
+  {
+    "source": "YHR030C",
+    "target": "YLL021W",
+    "EdgeBetweenness": 1104.113553,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL089C",
+    "target": "YHR030C",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL115W",
+    "target": "YGL208W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR310C",
+    "target": "YER103W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL098C",
+    "target": "YLR310C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER040W",
+    "target": "YGR019W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YER040W",
+    "target": "YPR035W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL008C",
+    "target": "YMR043W",
+    "EdgeBetweenness": 988,
+    "interaction": "pd"
+  },
+  {
+    "source": "YOR036W",
+    "target": "YGL161C",
+    "EdgeBetweenness": 494,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOR036W",
+    "target": "YDR100W",
+    "EdgeBetweenness": 494,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR323C",
+    "target": "YOR036W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBL005W",
+    "target": "YJL219W",
+    "EdgeBetweenness": 249,
+    "interaction": "pd"
+  },
+  {
+    "source": "YBR160W",
+    "target": "YGR108W",
+    "EdgeBetweenness": 48,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR160W",
+    "target": "YMR043W",
+    "EdgeBetweenness": 940,
+    "interaction": "pd"
+  },
+  {
+    "source": "YKL101W",
+    "target": "YBR160W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOL156W",
+    "target": "YBL005W",
+    "EdgeBetweenness": 249,
+    "interaction": "pd"
+  },
+  {
+    "source": "YLL021W",
+    "target": "YLR362W",
+    "EdgeBetweenness": 1026.267399,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJL203W",
+    "target": "YOL136C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJL157C",
+    "target": "YOR212W",
+    "EdgeBetweenness": 8680.004129,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJL157C",
+    "target": "YAL040C",
+    "EdgeBetweenness": 115,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL145W",
+    "target": "YHR084W",
+    "EdgeBetweenness": 4.83333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL145W",
+    "target": "YCL067C",
+    "EdgeBetweenness": 9.83333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGR108W",
+    "target": "YBR135W",
+    "EdgeBetweenness": 3656.084554,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR043W",
+    "target": "YFL026W",
+    "EdgeBetweenness": 484.3333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR043W",
+    "target": "YJL157C",
+    "EdgeBetweenness": 9243.861272,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR043W",
+    "target": "YNL145W",
+    "EdgeBetweenness": 484.3333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR043W",
+    "target": "YDR461W",
+    "EdgeBetweenness": 484.3333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR043W",
+    "target": "YGR108W",
+    "EdgeBetweenness": 4058.084554,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR043W",
+    "target": "YKR097W",
+    "EdgeBetweenness": 3136.175275,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR043W",
+    "target": "YJL159W",
+    "EdgeBetweenness": 988,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR043W",
+    "target": "YIL015W",
+    "EdgeBetweenness": 487,
+    "interaction": "pd"
+  },
+  {
+    "source": "YKL109W",
+    "target": "YGL035C",
+    "EdgeBetweenness": 2540.666667,
+    "interaction": "pd"
+  },
+  {
+    "source": "YKL109W",
+    "target": "YJR048W",
+    "EdgeBetweenness": 1185.8,
+    "interaction": "pd"
+  },
+  {
+    "source": "YKL109W",
+    "target": "YBL021C",
+    "EdgeBetweenness": 451.4333333,
+    "interaction": "pp"
+  },
+  {
+    "source": "YKL109W",
+    "target": "YGL237C",
+    "EdgeBetweenness": 451.4333333,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR217W",
+    "target": "YNR007C",
+    "EdgeBetweenness": 249,
+    "interaction": "pp"
+  },
+  {
+    "source": "YHR171W",
+    "target": "YNR007C",
+    "EdgeBetweenness": 739,
+    "interaction": "pp"
+  },
+  {
+    "source": "YHR171W",
+    "target": "YDR412W",
+    "EdgeBetweenness": 1960,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL149W",
+    "target": "YBR217W",
+    "EdgeBetweenness": 249,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL149W",
+    "target": "YHR171W",
+    "EdgeBetweenness": 739,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR311W",
+    "target": "YKL028W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBL021C",
+    "target": "YJR048W",
+    "EdgeBetweenness": 44.56666667,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL237C",
+    "target": "YJR048W",
+    "EdgeBetweenness": 44.56666667,
+    "interaction": "pd"
+  },
+  {
+    "source": "YLR256W",
+    "target": "YEL039C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YLR256W",
+    "target": "YJR048W",
+    "EdgeBetweenness": 2440,
+    "interaction": "pd"
+  },
+  {
+    "source": "YLR256W",
+    "target": "YML054C",
+    "EdgeBetweenness": 988,
+    "interaction": "pd"
+  },
+  {
+    "source": "YJR109C",
+    "target": "YOR303W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR058W",
+    "target": "YOR264W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR229C",
+    "target": "YJL157C",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR309C",
+    "target": "YLR229C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR116W",
+    "target": "YKL012W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL312W",
+    "target": "YPL111W",
+    "EdgeBetweenness": 739,
+    "interaction": "pd"
+  },
+  {
+    "source": "YML032C",
+    "target": "YNL312W",
+    "EdgeBetweenness": 249,
+    "interaction": "pp"
+  },
+  {
+    "source": "YKL012W",
+    "target": "YKL074C",
+    "EdgeBetweenness": 2440,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL236W",
+    "target": "YKL012W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL091W",
+    "target": "YNL164C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR184C",
+    "target": "YLR319C",
+    "EdgeBetweenness": 4543.546187,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIL143C",
+    "target": "YDR311W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIR009W",
+    "target": "YNL091W",
+    "EdgeBetweenness": 2992.124542,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIR009W",
+    "target": "YDR184C",
+    "EdgeBetweenness": 4563.546187,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIR009W",
+    "target": "YIL143C",
+    "EdgeBetweenness": 1476,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIR009W",
+    "target": "YKR099W",
+    "EdgeBetweenness": 5834.22018,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL248C",
+    "target": "YBR018C",
+    "EdgeBetweenness": 491,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL248C",
+    "target": "YLR081W",
+    "EdgeBetweenness": 491,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL248C",
+    "target": "YBR020W",
+    "EdgeBetweenness": 38.23333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL248C",
+    "target": "YML051W",
+    "EdgeBetweenness": 236.2484849,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL248C",
+    "target": "YML051W",
+    "EdgeBetweenness": 236.2484849,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL248C",
+    "target": "YGL035C",
+    "EdgeBetweenness": 2953.351515,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL248C",
+    "target": "YJR048W",
+    "EdgeBetweenness": 1779.333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YPL248C",
+    "target": "YBR019C",
+    "EdgeBetweenness": 40.23333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YBR020W",
+    "target": "YGL035C",
+    "EdgeBetweenness": 713.6515152,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL035C",
+    "target": "YIL162W",
+    "EdgeBetweenness": 1336.397436,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL035C",
+    "target": "YLR377C",
+    "EdgeBetweenness": 1488.734982,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL035C",
+    "target": "YLR044C",
+    "EdgeBetweenness": 15561.19504,
+    "interaction": "pd"
+  },
+  {
+    "source": "YOL051W",
+    "target": "YBR018C",
+    "EdgeBetweenness": 5,
+    "interaction": "pd"
+  },
+  {
+    "source": "YOL051W",
+    "target": "YPL248C",
+    "EdgeBetweenness": 222.6484849,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOL051W",
+    "target": "YLR081W",
+    "EdgeBetweenness": 5,
+    "interaction": "pd"
+  },
+  {
+    "source": "YOL051W",
+    "target": "YBR020W",
+    "EdgeBetweenness": 138.0424242,
+    "interaction": "pd"
+  },
+  {
+    "source": "YBR019C",
+    "target": "YGL035C",
+    "EdgeBetweenness": 583.0757576,
+    "interaction": "pd"
+  },
+  {
+    "source": "YBR019C",
+    "target": "YOL051W",
+    "EdgeBetweenness": 136.6424242,
+    "interaction": "pd"
+  },
+  {
+    "source": "YJR060W",
+    "target": "YPR167C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YDR103W",
+    "target": "YLR362W",
+    "EdgeBetweenness": 486,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR362W",
+    "target": "YPL240C",
+    "EdgeBetweenness": 8670.282917,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR362W",
+    "target": "YMR186W",
+    "EdgeBetweenness": 665,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR362W",
+    "target": "YER124C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YCL032W",
+    "target": "YDR103W",
+    "EdgeBetweenness": 10,
+    "interaction": "pp"
+  },
+  {
+    "source": "YCL032W",
+    "target": "YLR362W",
+    "EdgeBetweenness": 2430,
+    "interaction": "pp"
+  },
+  {
+    "source": "YCL032W",
+    "target": "YDR032C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR138W",
+    "target": "YLR109W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR138W",
+    "target": "YHR141C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOL058W",
+    "target": "YNL189W",
+    "EdgeBetweenness": 1797.889744,
+    "interaction": "pp"
+  },
+  {
+    "source": "YEL009C",
+    "target": "YMR300C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YEL009C",
+    "target": "YOL058W",
+    "EdgeBetweenness": 1902.089744,
+    "interaction": "pd"
+  },
+  {
+    "source": "YEL009C",
+    "target": "YBR248C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YEL009C",
+    "target": "YCL030C",
+    "EdgeBetweenness": 3692.358974,
+    "interaction": "pd"
+  },
+  {
+    "source": "YEL009C",
+    "target": "YOR202W",
+    "EdgeBetweenness": 635.2692308,
+    "interaction": "pd"
+  },
+  {
+    "source": "YEL009C",
+    "target": "YMR108W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YMR186W",
+    "target": "YBR155W",
+    "EdgeBetweenness": 247,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOR326W",
+    "target": "YGL106W",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR309C",
+    "target": "YNL047C",
+    "EdgeBetweenness": 1581.915446,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOR361C",
+    "target": "YDR429C",
+    "EdgeBetweenness": 1287.129731,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOR361C",
+    "target": "YMR309C",
+    "EdgeBetweenness": 1073.415446,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER179W",
+    "target": "YIL105C",
+    "EdgeBetweenness": 2481.915446,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER179W",
+    "target": "YLR134W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER179W",
+    "target": "YLR044C",
+    "EdgeBetweenness": 3377.915446,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDL014W",
+    "target": "YOR310C",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPR119W",
+    "target": "YMR043W",
+    "EdgeBetweenness": 18360,
+    "interaction": "pd"
+  },
+  {
+    "source": "YLR117C",
+    "target": "YBR190W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL013C",
+    "target": "YOL156W",
+    "EdgeBetweenness": 739,
+    "interaction": "pd"
+  },
+  {
+    "source": "YGL013C",
+    "target": "YJL219W",
+    "EdgeBetweenness": 739,
+    "interaction": "pd"
+  },
+  {
+    "source": "YCR086W",
+    "target": "YOR264W",
+    "EdgeBetweenness": 1476,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR412W",
+    "target": "YPR119W",
+    "EdgeBetweenness": 18040,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR412W",
+    "target": "YLR117C",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR412W",
+    "target": "YGL013C",
+    "EdgeBetweenness": 1960,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR412W",
+    "target": "YCR086W",
+    "EdgeBetweenness": 1960,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER062C",
+    "target": "YPL201C",
+    "EdgeBetweenness": 2,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOR327C",
+    "target": "YER143W",
+    "EdgeBetweenness": 249,
+    "interaction": "pp"
+  },
+  {
+    "source": "YAL030W",
+    "target": "YER143W",
+    "EdgeBetweenness": 249,
+    "interaction": "pp"
+  },
+  {
+    "source": "YCL030C",
+    "target": "YKR099W",
+    "EdgeBetweenness": 3832.743712,
+    "interaction": "pd"
+  },
+  {
+    "source": "YCR012W",
+    "target": "YJR060W",
+    "EdgeBetweenness": 988,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YOL086C",
+    "EdgeBetweenness": 2148.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YDR050C",
+    "EdgeBetweenness": 2148.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YOL127W",
+    "EdgeBetweenness": 2391,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YAL038W",
+    "EdgeBetweenness": 2940.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YIL069C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YER074W",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YBR093C",
+    "EdgeBetweenness": 1476,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YDR171W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YCL030C",
+    "EdgeBetweenness": 5079.359829,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YNL301C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YOL120C",
+    "EdgeBetweenness": 496,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YLR044C",
+    "EdgeBetweenness": 15620.15017,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YIL133C",
+    "EdgeBetweenness": 2391,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YHR174W",
+    "EdgeBetweenness": 2148.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YGR254W",
+    "EdgeBetweenness": 2148.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL216W",
+    "target": "YCR012W",
+    "EdgeBetweenness": 2940.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YAL038W",
+    "target": "YPL075W",
+    "EdgeBetweenness": 2034.765423,
+    "interaction": "pd"
+  },
+  {
+    "source": "YNL307C",
+    "target": "YAL038W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER116C",
+    "target": "YDL013W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNR053C",
+    "target": "YDL030W",
+    "EdgeBetweenness": 7118.717083,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNR053C",
+    "target": "YJL203W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR264W",
+    "target": "YBL026W",
+    "EdgeBetweenness": 248.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR264W",
+    "target": "YOL149W",
+    "EdgeBetweenness": 248.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR264W",
+    "target": "YER112W",
+    "EdgeBetweenness": 248.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YEL015W",
+    "target": "YML064C",
+    "EdgeBetweenness": 3025.31049,
+    "interaction": "pp"
+  },
+  {
+    "source": "YNR050C",
+    "target": "YMR138W",
+    "EdgeBetweenness": 1476,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJR022W",
+    "target": "YNR053C",
+    "EdgeBetweenness": 6283.85994,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJR022W",
+    "target": "YLR264W",
+    "EdgeBetweenness": 1220.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJR022W",
+    "target": "YOR167C",
+    "EdgeBetweenness": 1220.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJR022W",
+    "target": "YEL015W",
+    "EdgeBetweenness": 3050.145654,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJR022W",
+    "target": "YNL050C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJR022W",
+    "target": "YNR050C",
+    "EdgeBetweenness": 1960,
+    "interaction": "pp"
+  },
+  {
+    "source": "YER112W",
+    "target": "YOR167C",
+    "EdgeBetweenness": 248.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YCL067C",
+    "target": "YFL026W",
+    "EdgeBetweenness": 9.83333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YCL067C",
+    "target": "YDR461W",
+    "EdgeBetweenness": 9.83333333,
+    "interaction": "pd"
+  },
+  {
+    "source": "YCL067C",
+    "target": "YMR043W",
+    "EdgeBetweenness": 1447.5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YCL067C",
+    "target": "YIL015W",
+    "EdgeBetweenness": 9,
+    "interaction": "pd"
+  },
+  {
+    "source": "YCR084C",
+    "target": "YCL067C",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YCR084C",
+    "target": "YBR112C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIL061C",
+    "target": "YLR153C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIL061C",
+    "target": "YNL199C",
+    "EdgeBetweenness": 9902.717083,
+    "interaction": "pp"
+  },
+  {
+    "source": "YIL061C",
+    "target": "YDL013W",
+    "EdgeBetweenness": 8486.717083,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR203W",
+    "target": "YIL061C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJL013C",
+    "target": "YGL229C",
+    "EdgeBetweenness": 5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YJL030W",
+    "target": "YGL229C",
+    "EdgeBetweenness": 5,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR014W",
+    "target": "YJL013C",
+    "EdgeBetweenness": 7,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR014W",
+    "target": "YJL030W",
+    "EdgeBetweenness": 7,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPL211W",
+    "target": "YGR014W",
+    "EdgeBetweenness": 8,
+    "interaction": "pp"
+  },
+  {
+    "source": "YOL123W",
+    "target": "YGL044C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YFL017C",
+    "target": "YOR362C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YFL017C",
+    "target": "YER102W",
+    "EdgeBetweenness": 2758.084554,
+    "interaction": "pp"
+  },
+  {
+    "source": "YFL017C",
+    "target": "YOL059W",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YDR429C",
+    "target": "YFL017C",
+    "EdgeBetweenness": 1470.494811,
+    "interaction": "pp"
+  },
+  {
+    "source": "YMR146C",
+    "target": "YDR429C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR293C",
+    "target": "YGL097W",
+    "EdgeBetweenness": 6,
+    "interaction": "pp"
+  },
+  {
+    "source": "YBR118W",
+    "target": "YAL003W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YPR080W",
+    "target": "YAL003W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR249W",
+    "target": "YBR118W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YLR249W",
+    "target": "YPR080W",
+    "EdgeBetweenness": 4,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL097W",
+    "target": "YOR204W",
+    "EdgeBetweenness": 6,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGR218W",
+    "target": "YGL097W",
+    "EdgeBetweenness": 6,
+    "interaction": "pp"
+  },
+  {
+    "source": "YGL122C",
+    "target": "YOL123W",
+    "EdgeBetweenness": 988,
+    "interaction": "pp"
+  },
+  {
+    "source": "YKR026C",
+    "target": "YGL122C",
+    "EdgeBetweenness": 496,
+    "interaction": "pp"
+  }
+]
+
 }
