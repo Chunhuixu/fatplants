@@ -301,3 +301,10 @@ input[type="submit"] {
 .dropdown.menu > li.is-dropdown-submenu-parent > a.btn-group-dropdown::after{
     border-color: white transparent transparent !important;
 }
+
+
+.network3D-container {
+    display: inline;
+    flex: auto;
+    margin: 10px 50px 10px 50px;
+}
