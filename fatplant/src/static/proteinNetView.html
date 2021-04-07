@@ -12,6 +12,7 @@
 
     <link rel='stylesheet' href='js/foundation.css'/>
     <link rel='stylesheet' href='js/custom.css'/>
+    <!-- <link rel="preload" href="RNAdata3D.json" as="fetch"> -->
 
     <!-- For loading external data files -->
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Promise,fetch"></script>
@@ -52,10 +53,21 @@
       <button id="layout2" title="D3 Force Graph" class="button button2">Cola</button>
       <button id="layout3" title="Circluar Pattern" class="button button3">Circle</button>
       <button id="layout4" title="Symetric" class="button button4">Concentric</button>
+
+      <!-- <div class="dropdown"> -->
+  <button onclick="myFunction()" class="dropbtn button">3D Networks</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="#" onclick="genomeNetwork(); return false;">Genome Network</a>
+    <a href="#" onclick="group0Filter(); return false;">Genome Group 1</a>
+    <a href="#" onclick="rnaNetwork(); return false;">GLYMA_01G215500 Network</a>
+    <a href="#" onclick="groupRFilter(); return false;">GLYMA_01G215500 Group 1</a>
+    
+  </div>
+</div>
       <ul id="target-pathway-dropdown"  class="dropdown menu menu-hover-lines " data-dropdown-menu>
         <li class="menu">
-          <a class="btn-group-dropdown">Target Pathway</a>
-          <ul class="menu vertical" data-submenu>
+          <!-- <a class="btn-group-dropdown">Target Pathway</a> -->
+          <!-- <ul class="menu vertical" data-submenu>
             <li><a href="#">Glycerophospholipid metabolism</a></li>
             <li><a href="#">Biosynthesis of secondary metabolites</a></li>
             <li><a href="#">Metabolic pathways</a></li>
@@ -78,7 +90,7 @@
             <li><a href="#">Sphingolipid metabolism</a></li>
             <li><a href="#">Biosynthesis of antibiotics</a></li>
             <li><a href="#">Fatty acid degradation</a></li>
-          </ul>
+          </ul> -->
         </li>
       </ul>
     </div>
@@ -106,25 +118,27 @@
 <br>
 <br>
 
+
 <div class="row columns">
 
-    <div class=" text-center" id="loading" style="margin-top: 35px">
+    <!-- <div class=" text-center" id="loading" style="margin-top: 35px">
         <h5><i class="fas fa-spinner fa-spin fa-1.5x"></i>&nbsp;Loading network... </h5>
-    </div>
+    </div> -->
 
 </div>
 
 <div class="row columns">
 
-    <div class="columns small-10 small-centered" id="cy">
+    <!-- <div class="columns small-10 small-centered" id="cy"> -->
+    <!-- </div> -->
 
-
-    </div>
+    <div id="3d-graph"></div>
 
 </div>
 
 <!-- 3D Network -->
-<div class="network3D-container" id="3d-graph"></div>
+
+
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.5.3/cytoscape.umd.js" type="text/javascript"></script>
@@ -160,8 +174,9 @@
 <!-- 3D Network links -->
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="//unpkg.com/3d-force-graph"></script>
-<script src="//unpkg.com/three-spritetext"></script>
+<!-- <script src="//unpkg.com/three-spritetext"></script> -->
 <script src="js/network3D.js"></script>
+<!-- <script src="js/networkToggler3D.js"></script> -->
 
 <div class="row columns">
   <div class="columns small-10 small-centered textrow ">
