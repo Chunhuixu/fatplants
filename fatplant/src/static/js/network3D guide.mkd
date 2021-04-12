@@ -1,0 +1,20 @@
+# network3D.js 
+
+The first two functions are for the dropdown button that is used to switch between the different number of the graphs that have been created.
+
+The next two functions load in the RNA and test data sets into the 3d-force-graph package functions creates the 3D graph.
+
+From lines 54 and 112 is an attempt to load in a data set with an async method in order to map the network and account for the neighbors for each node. This was done in order to add a feature to the 3D network that allows the user to hover over a node and it would highlight the links and nodes connected to the chosen node.
+The issue that I had with this was properly using the callback function when I needed the loaded data in the actual 3D network. 
+I could see the data being properly loaded and mapped at certain point (line 66), but when I tested the program, I would encounter an error that the data couldn't be found.
+The attempted implantation of the highlight function line 133 - 167.
+
+Starting at line 115 to line 191 is where the 3d-graph is being created. The 3d-force-graph package comes with many built in functions that alter the 3D graphs and are denoted with a "." before the name of the function that is being used, plus the parameters.
+Each function has a detailed description on the 3d-force-graph github page.
+
+The rest of the functions are used to filter the data and only show certain nodes. Implemented this through the dropdown menu mentioned earlier by each filter being its own graph that loads in the data each time an option is clicked.
+This method isn’t the best speaking from an efficiency stand-point, but I feel that this can be fixed with calling the data asyncly once and editing that data as needed.
+
+## Bugs
+The main bug or issue that I didn't get a chance to fix was when the RNA data was load in it would lag the entire webpage due to the number of links that are being loaded in. 
+A solution that I started to work on to this problem was only showing the links to certain nodes when they are hovered over since the lag is caused by the number of links on screen at once.
